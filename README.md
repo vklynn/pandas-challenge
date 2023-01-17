@@ -1,8 +1,9 @@
 # pandas-challenge
 Unit 4 pandas 
+PyCitySchools code can befound in folder labeled "PyCitySchools"
+Screen shots of output can be found in folder labeled "Screen Shots"
  
- 
-PyCity Schools Analysis
+PyCity Schools Analysis Summary -------------------------------------------------------------------------------------------------------------------------
 
 As a whole schools tended to peform better with in reading than maths, with approx. 34.83% of students failing math or reading. 
 
